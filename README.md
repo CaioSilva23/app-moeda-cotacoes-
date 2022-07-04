@@ -3,7 +3,7 @@
 
 Este projeto foi realizado para realizar consultas de cotações de moedas, selecionando o moeda e data preterida.
 
-## Tecnologias
+## Tecnologias.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
